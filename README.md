@@ -11,7 +11,7 @@ Contains all the data regarding the MOOCs that I have personally studied.
 |5. |[Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)|
 |6. |[Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)|
 |7. |[Cryptography 1]()|
-|8. | |
+|8. |[Pytorch Tutorials](https://pytorch.org/tutorials/)| Audit|
 
 
 
