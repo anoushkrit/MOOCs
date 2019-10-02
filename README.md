@@ -12,6 +12,7 @@ Contains all the data regarding the MOOCs that I have personally studied.
 |6. |[Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)|
 |7. |[Cryptography 1]()|
 |8. |[Pytorch Tutorials](https://pytorch.org/tutorials/)| Audit|
+|9. |[AWS DeepRacer Scholardhip](https://www.udacity.com/aws-deepracer-scholarship)|| AWS SageMaker, AWS RoboMAker, Reinforcement Learning|
 
 
 
