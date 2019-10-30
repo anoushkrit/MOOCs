@@ -13,7 +13,8 @@ Contains all the data regarding the MOOCs that I have personally studied.
 |7. |[Cryptography 1]()|
 |8. |[Pytorch Tutorials](https://pytorch.org/tutorials/)| Audit|
 |9. |[AWS DeepRacer Scholarship](https://www.udacity.com/aws-deepracer-scholarship)|| AWS SageMaker, AWS RoboMAker, Reinforcement Learning|
-
+|10.| [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)| | TensorFlow, Keras|
+|11.| [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)| | TensorFlow, Keras, CNN| 
 
 
 
