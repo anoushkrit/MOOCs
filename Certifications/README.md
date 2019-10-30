@@ -1,6 +1,6 @@
 # PDFs of Certifications
 
-1. [MPN 10275](Certifications/MPN10275_Advanced Analytics_Anoushkrit_Goel.pdf)
+1. [MPN 10275](/MPN10275_Advanced Analytics_Anoushkrit_Goel.pdf)
 2. [ ]()
 3.
 4.
