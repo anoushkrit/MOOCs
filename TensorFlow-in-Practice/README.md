@@ -19,23 +19,10 @@ such as, Human/ Horse Classification.
 
 ### Convolutional Networks in TensorFlow
 In Convolutional Neural Networks in TensorFlow we dive in Larger Datasets and in the infamous problem of Cats vs Dogs.
-The Cat Dog Classifier has been the "Hello World" for Machine Learning
+The Cat Dog Classifier has been the "Hello World" for Machine Learning, in terms of CNN
 
 #### Week 1
-
-
-#### Week 2
-
-
-#### Week 3
-
-
-#### Week 4
-
-
-
-### Natural Language Processing in TensorFlow
-
+Cat Dog Classifier, is the main focus in this week and aims to build the classifier with utmost ease and multiple tweaking so that we get the maximum TEST a
 #### Week 1
 
 
