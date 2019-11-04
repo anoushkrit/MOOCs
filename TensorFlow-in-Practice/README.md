@@ -9,7 +9,7 @@ Week 1 involved basic usage of TensorFlow
 
 
 #### Week 3
-Using ImageGenerator and flow_from_directory
+Using ImageGenerator and flow_from_directory which completely sorts the data 
 #### Week 4
 
 Now in Week 4, we study about the Image Generators which help in resizing images on the fly. This module contains exercises
