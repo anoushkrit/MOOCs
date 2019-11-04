@@ -18,6 +18,7 @@ such as, Human/ Horse Classification.
 
 
 ### Convolutional Networks in TensorFlow
+In Convolutional Neural Networks
 
 #### Week 1
 
