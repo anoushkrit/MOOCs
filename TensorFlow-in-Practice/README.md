@@ -18,7 +18,7 @@ such as, Human/ Horse Classification.
 
 
 ### Convolutional Networks in TensorFlow
-In Convolutional Neural Networks
+In Convolutional Neural Networks in TensorFlow we dive in Larger Datasets and in the infamous problem of Cats vs Dogs
 
 #### Week 1
 
