@@ -22,7 +22,7 @@ In Convolutional Neural Networks in TensorFlow we dive in Larger Datasets and in
 The Cat Dog Classifier has been the "Hello World" for Machine Learning, in terms of CNN
 
 #### Week 1
-Cat Dog Classifier, is the main focus in this week and aims to build the classifier with utmost ease and multiple tweaking so that we get the maximum TEST a
+Cat Dog Classifier, is the main focus in this week and aims to build the classifier with utmost ease and multiple tweaking so that we get the maximum TEST accuracy.
 #### Week 1
 
 
