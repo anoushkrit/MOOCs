@@ -6,7 +6,9 @@ In Week 1, We hit back to the Image Data Generator and using the `flow_from_dire
 #### Week 2
 
 In this week, we will work on the powerful functions provided by TensorFlow for data preprocessing on-the-fly.
-The data augmentation itself is memory intensive task, and some of the worth mentioning libraries include `imgaug` which stands for "Image Augmentation"
+The data augmentation itself is memory intensive task, and some of the worth mentioning libraries include `imgaug` which stands for "Image Augmentation".
+
+Techniques used prominently in Image Augmentation:
 
 #### Week 3
 
