@@ -9,6 +9,12 @@ In this week, we will work on the powerful functions provided by TensorFlow for 
 The data augmentation itself is memory intensive task, and some of the worth mentioning libraries include `imgaug` which stands for "Image Augmentation".
 
 Techniques used prominently in Image Augmentation:
+1. Cropping
+2. Rotating
+3. Flipping
+4. Shifting
+5. Color Change
+
 
 #### Week 3
 
