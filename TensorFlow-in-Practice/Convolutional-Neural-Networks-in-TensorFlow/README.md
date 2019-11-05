@@ -5,8 +5,10 @@ In Week 1, We hit back to the Image Data Generator and using the `flow_from_dire
 
 #### Week 2
 
+In this week, we will work on the powerful functions provided by TensorFlow for 
 
 #### Week 3
 
 
 #### Week 4
+bra
