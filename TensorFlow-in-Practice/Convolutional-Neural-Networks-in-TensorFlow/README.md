@@ -15,7 +15,7 @@ Techniques used prominently in Image Augmentation:
 4. Shifting
 5. Color Change
 6. Histogram Equalization
-7.
+7. 
 
 
 #### Week 3
