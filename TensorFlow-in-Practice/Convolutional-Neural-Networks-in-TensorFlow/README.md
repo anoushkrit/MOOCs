@@ -15,7 +15,9 @@ Techniques used prominently in Image Augmentation:
 4. Shifting
 5. Color Change
 6. Histogram Equalization
-7. 
+
+**Validation Accuracy** fluctuates a lot if the augmentation performed on Training Set is not performed on the Validation set appropriately as said by Laurence Moroney in [Augmentation on Horses v Humans](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/lecture/Faeaq/exploring-augmentation-with-horses-vs-humans)
+
 
 
 #### Week 3
