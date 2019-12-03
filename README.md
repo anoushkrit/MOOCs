@@ -17,5 +17,6 @@ Contains all the data regarding the MOOCs that I have personally studied.
 |10.| [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)| | TensorFlow, Keras|
 |11.| [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)| | TensorFlow, Keras, CNN| 
 |12. | [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)| | TensorFlow, Keras, CNN|
+|13. | [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)| | Open AI Gym, RL|
 
 
