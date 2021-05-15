@@ -2,6 +2,20 @@
 
 ## 2D Image Data
 
+### Lesson 1: Introduction to AI for 2D Medical Imaging 
+
+### Lesson 2: Clinical Foundations for 2D Medical Imaging 
+
+### Lesson 3: 2D Medical Imaging Exploratory Data Analysis 
+
+### Lesson 4: Classification Models of 2D Medical Images 
+
+### Lesson 5: Translating AI Algorithms for Clinical Settings with the FDA
+
+### Project: Pneumonia Detection from Chest X-rays 
+
+
+
 
 3.7 Exploring 2D Imaging Properties 
       1. https://youtu.be/hP7BaRiPd5M
