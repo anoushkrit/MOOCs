@@ -1,4 +1,6 @@
+# AI in Healthcare 
 
+## 2D Image Data
 
 
 3.7 Exploring 2D Imaging Properties 
@@ -19,3 +21,14 @@ It is worth noting that the data returned in my_dicom.pixel_array will be in the
 
 Explore image data
 A good practice is to perform random spot checks of your data by choosing several random images and visualizing them. Then you can explore images in a pixel level by looking at intensity profiles of individual images.
+
+
+
+## 3D Image Data 
+
+## EHR Data 
+
+
+## Wearable Device Data
+
+
